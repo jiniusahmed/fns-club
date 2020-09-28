@@ -1,0 +1,58 @@
+body{
+	background:#082031;
+}
+
+
+.box{
+	height:350px;
+	width:450px;
+	background:#051621;
+	color:white;
+	padding:10px 20px 10px 20px;
+	border:1px solid #eeeef3a3;
+	border-radius:3px;
+	margin:12% auto;
+	
+}
+.555{
+	   font-size:15px;
+}
+hr{
+	background-color:#F05925;
+	height:4px;
+	border:none;
+}
+.member{
+       text-align:center;
+	   padding-top:9px;
+	   font-size:15px
+	
+
+}
+.input{
+	width:400px;
+	height:25px;
+	padding-right:40px;
+	border-radius:5px;
+	
+}
+.btn{
+	width:447px;
+	height:32px;
+	padding-right:40px;
+	border-radius:5px;
+	background:#F05925;
+	margin-bottom:11px;
+}
+.btn1{
+	width:447px;
+	height:32px;
+	padding-right:40px;
+	border-radius:5px;
+	background:#3F51B5;
+	margin-bottom:11px;
+}
+
+.span{
+	justify-content:space-around;
+}

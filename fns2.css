@@ -1,0 +1,139 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #082031;
+}
+.fnlogo{
+	background: #F05925;
+}
+.fnlogo img{
+	width: 171px;
+	height: 54px;
+	padding: 9px 14px;
+}
+.container {
+    margin: auto;
+    width: 242px;
+    padding-right: 35px;
+    padding-left: 35px;
+    background: #051621;
+    border:0.05px solid #989393;
+    border-radius: 9px;
+    padding-top: 5px;
+}
+.membertitlre h3 {
+    color: white;
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 8px;
+    font-family: arial black;
+    font-weight: 200;
+}
+hr {
+    height: 6px;
+    background: #F05925;
+    border: none;
+}
+b{
+	color: white;
+}
+.fname i {
+    color: white;
+    font-size: 13px;
+    padding-right: 5px;
+    padding-bottom: 9px;
+}
+.lname i {
+    color: white;
+    font-size: 13px;
+    padding-right: 5px;
+    padding-bottom: 9px;
+}
+.fname {
+    padding-top: 25px;
+}
+.lname {
+    padding-top: 25px;
+}
+input {
+    width: 100%;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.email i {
+    color: white;
+    font-size: 15px;
+    padding-right: 2px;
+    padding-bottom: 9px;
+}
+i{
+	color:white;
+	padding-bottom: 9px;
+	padding-right: 2px;
+}
+select {
+    width: 242px;
+    height: 36px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+.email{
+	padding-top: 25px;
+}
+.gender{
+	padding-top: 25px;
+}
+.password{
+	padding-top: 25px;
+}
+.phone{
+	padding-top: 25px;
+}
+.country{
+	padding-top: 25px;
+}
+.Divison{
+	padding-top: 25px;
+}
+.Postcode{
+	padding-top: 25px;
+}
+.btn{
+	height: 37px;
+	width: 245px;
+	background: #F05925;
+	border: 1px solid;
+	border-radius: 6px;
+	transition: .5s;
+}
+.button{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.copyright{
+	background: #F05925;
+	text-align: center;
+	font-family: arial black;
+	font-weight: 200;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.footer {
+    padding-top: 456px;
+}
+section#logo {
+    position: fixed;
+    width: 100%;
+}
+.btn:hover{
+	background: #051621;
+	color:#F05925;
+
+}
+.maintheme{
+	padding-top: 2px;
+}
